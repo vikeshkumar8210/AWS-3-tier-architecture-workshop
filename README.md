@@ -26,6 +26,7 @@ See [AWS Three Tier Web Architecture](https://catalog.us-east-1.prod.workshops.a
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## Output
+![Screenshot 2023-07-07 223040](https://github.com/vikeshkumar8210/AWS-3-tier-architecture-workshop/assets/73430534/37f3e6f8-d018-4b83-adcb-88ab895b89ec)
 
 ## License
 
